@@ -1,0 +1,15 @@
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\bin\Debug\net6.0\FUCKEX.exe
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\bin\Debug\net6.0\FUCKEX.deps.json
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\bin\Debug\net6.0\FUCKEX.runtimeconfig.json
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\bin\Debug\net6.0\FUCKEX.dll
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\bin\Debug\net6.0\FUCKEX.pdb
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\obj\Debug\net6.0\FUCKEX.csproj.AssemblyReference.cache
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\obj\Debug\net6.0\FUCKEX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\obj\Debug\net6.0\FUCKEX.AssemblyInfoInputs.cache
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\obj\Debug\net6.0\FUCKEX.AssemblyInfo.cs
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\obj\Debug\net6.0\FUCKEX.csproj.CoreCompileInputs.cache
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\obj\Debug\net6.0\FUCKEX.dll
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\obj\Debug\net6.0\refint\FUCKEX.dll
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\obj\Debug\net6.0\FUCKEX.pdb
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\obj\Debug\net6.0\FUCKEX.genruntimeconfig.cache
+C:\Users\STAS\Desktop\GB\C#\FUCK\FUCKEX\obj\Debug\net6.0\ref\FUCKEX.dll
